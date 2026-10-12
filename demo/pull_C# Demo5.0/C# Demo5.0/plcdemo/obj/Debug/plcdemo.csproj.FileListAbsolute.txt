@@ -1,0 +1,341 @@
+D:\project\plcdemo\plcdemo\bin\Debug\plcdemo.exe
+D:\project\plcdemo\plcdemo\bin\Debug\plcdemo.pdb
+D:\project\plcdemo\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\project\plcdemo\plcdemo\obj\Debug\plcdemo.Form1.resources
+D:\project\plcdemo\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\project\plcdemo\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\project\plcdemo\plcdemo\obj\Debug\plcdemo.exe
+D:\project\plcdemo\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_09_25\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_09_25\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\obj\Debug\plcdemo.Form1.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\bin\Debug\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_26\plcdemo\bin\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\bin\Debug\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\bin\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\obj\Debug\plcdemo.Form1.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_10_27\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\bin\Debug\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\bin\Debug\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\plcdemo.Form1.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\bin\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\bin\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Debug\plcdemo.Form1.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\bin\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\bin\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\obj\Debug\plcdemo.Form1.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_13\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\bin\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\bin\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\obj\Debug\plcdemo.Form1.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_20\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\bin\Debug\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\bin\Debug\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Debug\plcdemo.Form1.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\plcdemo.exe
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\plcdemo.pdb
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\bin\Debug\plcdemo.exe
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\bin\Debug\plcdemo.pdb
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\plcdemo.Form1.resources
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+C:\Users\xiaodeng\Desktop\pull\C# demo\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\邓\C# demo\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\邓\C# demo\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\邓\C# demo\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.Form1.resources
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\邓\C# demo\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\邓\C# demo\plcdemo\bin\Debug\plcdemo.application
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\邓\C# demo\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\Interop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\AxInterop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\Interop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\AxInterop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdk 开发文档\C# demo\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\Interop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\AxInterop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\Interop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\AxInterop.zkemkeeper.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdk 开发文档\pullsdk-current-whole\C# demo\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\Interop.zkemkeeper.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\AxInterop.zkemkeeper.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\Interop.zkemkeeper.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\AxInterop.zkemkeeper.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\C# demo\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110511\C# demo5.0\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110712\C# demo5.0\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110714\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110714\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110714\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110714\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110714\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\plcdemo\obj\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\bin\Debug\plcdemo.application
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\bin\Debug\Interop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\bin\Debug\AxInterop.zkonline.dll
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+D:\下载\pullsdkdemo源码和最新开发包\pullsdk and document20110805\C# demo5.0\C# demo5.0\plcdemo\obj\Debug\plcdemo.application
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\bin\Debug\plcdemo.application
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\bin\Debug\Interop.zkonline.dll
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\bin\Debug\AxInterop.zkonline.dll
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+F:\pullsdk and document20120112\C# demo\C# demo5.0\plcdemo\obj\Debug\plcdemo.application
+F:\pullsdk and document20120112\pullsdk and document20120120\pullsdk and document\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+F:\pullsdk and document20120112\pullsdk and document20120120\pullsdk and document\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+F:\pullsdk and document20120112\pullsdk and document20120120\pullsdk and document\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+F:\pullsdk and document20120112\pullsdk and document20120120\pullsdk and document\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+F:\pullsdk and document20120112\pullsdk and document20120120\pullsdk and document\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\bin\Debug\plcdemo.application
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\bin\Debug\plcdemo.exe
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\bin\Debug\Interop.zkonline.dll
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\bin\Debug\AxInterop.zkonline.dll
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\ResolveAssemblyReference.cache
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\plcdemo.application
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\Interop.zkemkeeper.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\Interop.zkonline.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\AxInterop.zkemkeeper.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\AxInterop.zkonline.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.application
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.exe
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\Interop.zkemkeeper.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\Interop.zkonline.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\AxInterop.zkemkeeper.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\AxInterop.zkonline.dll
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csprojResolveAssemblyReference.cache
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+E:\★★★★★★SDK\PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.application
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.application
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.exe
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csprojResolveAssemblyReference.cache
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+E:\★★★★★★SDK\★★★★PullSDK\pullsdk二次开发20140916\C# Demo5.0\plcdemo\obj\Debug\plcdemo.application
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.pdb
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\bin\Debug\plcdemo.exe.manifest
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\bin\Debug\plcdemo.application
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\bin\Debug\plcdemo.exe
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\bin\Debug\plcdemo.pdb
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csprojResolveAssemblyReference.cache
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.PL.resources
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.Properties.Resources.resources
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.GenerateResource.Cache
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe.manifest
+G:\工作\二次开发\2_PULL\0_开发包\pullsdk二次开发20140916 c\C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.application
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.csproj.ResolveComReference.cache
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.exe
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\Debug\plcdemo.pdb

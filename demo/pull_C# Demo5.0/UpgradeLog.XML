@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="plcdemo">
+</Property><Property Name="Solution File" Value="F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo.sln">
+</Property><Property Name="User Options File" Value="F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\plcdemo.suo">
+</Property><Property Name="Date" Value="2012年4月7日">
+</Property><Property Name="Time" Value="16:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="plcdemo.sln" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="plcdemo.suo" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo.suo">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\plcdemo.csproj" Description="Project file successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\plcdemo.csproj">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\plcdemo.csproj.user" Description="Project user file successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\plcdemo.csproj.user">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\PLDemo.cs" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\PLDemo.cs">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\PLDemo.Designer.cs" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\PLDemo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\Program.cs" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\plcdemo_TemporaryKey.pfx" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\plcdemo_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\Properties\Settings.settings" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\PLDemo.resx" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\PLDemo.resx">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\Properties\Resources.resx" Description="File successfully backed up as F:\pullsdk and document20120112\pullsdk and document20120120\C# demo5.0\Backup\plcdemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\plcdemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="plcdemo" Source="plcdemo\plcdemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="plcdemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="plcdemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="plcdemo" Source="plcdemo\plcdemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

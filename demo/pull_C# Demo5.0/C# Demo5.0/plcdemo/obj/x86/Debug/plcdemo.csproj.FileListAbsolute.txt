@@ -1,0 +1,15 @@
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.csproj.ResolveComReference.cache
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\bin\x86\Debug\plcdemo.exe.manifest
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\bin\x86\Debug\plcdemo.application
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\bin\x86\Debug\plcdemo.exe
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\bin\x86\Debug\plcdemo.pdb
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.PL.resources
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.Properties.Resources.resources
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.csproj.GenerateResource.Cache
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.exe.manifest
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.application
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.exe
+E:\BiometricsIdentIDCard\Pull SDK开发包-2.2.1.2\Pull SDK开发包-2.2.1.2\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.pdb
+E:\Project\zkempull\Pull SDK开发包-2.2.1.4\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.csproj.ResolveComReference.cache
+E:\Project\zkempull\Pull SDK开发包-2.2.1.4\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.exe
+E:\Project\zkempull\Pull SDK开发包-2.2.1.4\demo\pull_C# Demo5.0\C# Demo5.0\plcdemo\obj\x86\Debug\plcdemo.pdb

@@ -1,0 +1,6 @@
+{
+  "name": "MarketLink - eGreen Basket",
+  "description": "Hyperlocal farmers market pre-order platform featuring physical stall pickup windows, pay-on-pickup cash calculations, stall inspections, interactive maps, digital QR passes, and Gemini Pro agro-intelligence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
